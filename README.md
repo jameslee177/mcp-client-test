@@ -1,5 +1,13 @@
 # `mcp-remote`
 
+-----
+**This is a fork of the original `mcp-remote` project by [Glen Geelen](https://github.com/geelen).**
+
+This fork was created for internal testing purposes. All credit for the original code and design belongs to the original author.
+
+Original Repository: https://github.com/geelen/mcp-remote
+-----
+
 Connect an MCP Client that only supports local (stdio) servers to a Remote MCP Server, with auth support:
 
 **Note: this is a working proof-of-concept** but should be considered **experimental**.
